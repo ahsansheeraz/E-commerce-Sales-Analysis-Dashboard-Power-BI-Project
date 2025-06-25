@@ -1,5 +1,5 @@
 # 🛒 E-commerce Sales Analysis Dashboard – Power BI Project
-
+![E-commerce Sales Dashboard Preview](Dashboard.png)
 ## 📌 Overview
 This Power BI project presents a detailed analysis of E-commerce sales performance. By integrating and visualizing data from two CSV files (`Orders.csv` and `Details.csv`), the dashboard offers insights into key business metrics including total profit, total quantity sold, product trends, and sales over time etc.
 
